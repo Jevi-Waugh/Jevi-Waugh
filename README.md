@@ -1,4 +1,4 @@
-## Hi there 👋 I like implementing Computer Vision and Machine learning algorithms.
+## Hi there 
 
 <!--
 **Jevi-Waugh/Jevi-Waugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
