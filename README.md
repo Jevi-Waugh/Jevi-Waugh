@@ -1,5 +1,10 @@
 ## Hi there 
 
+* I'm interested in Deep learning, pattern recognition and Computer vision.
+* I'm also very much interested in Transformers & Mechanistic Interpretability.
+
+If that's something you are passionate as well then reach out, maybe we could work on a project!
+
 <!--
 **Jevi-Waugh/Jevi-Waugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
