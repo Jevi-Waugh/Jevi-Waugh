@@ -1,7 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50"/>   Hi there 
 
 * I'm interested in Deep learning, pattern recognition and Computer vision.
-* I'm also very much interested in Transformers & Mechanistic Interpretability.
 
 If that's something you are passionate as well then reach out, maybe we could work on a project!
 
