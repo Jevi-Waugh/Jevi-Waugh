@@ -12,6 +12,7 @@ I am also Fine-tuning Flan-T5 using the Biolaysumm dataset as part of PatternAna
 
 If that's something you are passionate as well then reach out, maybe we could work on a project!
 
+Find more at https://jevi-waugh.github.io/
 <!--
 **Jevi-Waugh/Jevi-Waugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
