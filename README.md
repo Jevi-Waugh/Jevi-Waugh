@@ -5,9 +5,10 @@
 </p> 
 
 * I'm interested in Deep learning, Computer Vision and Pattern Recognition.
+* I also tutor software engineering at UQ, as I believe everyone should have a strong foundation.
 
 I am currently working on upgrading the softmax formula used in Attention in collaboration with a researcher. 
-I am also Fine-tuning Flan-T5 as part of PatternAnalysis2025.
+I am also Fine-tuning Flan-T5 using the Biolaysumm dataset as part of PatternAnalysis2025.
 
 If that's something you are passionate as well then reach out, maybe we could work on a project!
 
