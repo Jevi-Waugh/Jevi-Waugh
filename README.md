@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50"/>  Hi there  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,c,java" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,c,haskell,java" />
   </a>
 </p> 
 
