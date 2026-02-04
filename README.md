@@ -8,7 +8,9 @@
 * I also tutor software engineering at UQ, as I believe everyone should have a strong foundation.
 
 I am currently working on upgrading the softmax formula used in Attention in collaboration with a researcher. 
-I am also Fine-tuning Flan-T5 using the Biolaysumm dataset as part of PatternAnalysis2025. Head to the recognition branch for implementation details.
+I Fine tuned Flan-T5 using the Biolaysumm dataset as part of PatternAnalysis2025. Head to the recognition branch for implementation details.
+I am currently a Summer Research Scholar for the School of Electrical Engineering and Computer Science at UQ, expanding the work LEARNING FREQUENCY DOMAIN CODES FOR SEMANTIC VISION on segmentation tasks
+which has never been done before.
 
 If that's something you are passionate as well then reach out, maybe we could work on a project!
 
