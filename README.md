@@ -6,6 +6,8 @@
 
 * I'm interested in Deep Learning, Computer Vision and Pattern Recognition. If that's something you're passionate about as well, feel free to reach out, there may be opportunities to collaborate on a project. Note: I am currently focused on large scale projects that aim to address unsolved problems.
 * I also tutor Machine Learning, Functional and Logic Programming, Theory of Computing, and Software Engineering at UQ.
+  
+I completed a Bachelor of Computer Science majoring in Machine Learning, and I am currently pursuing a Master of Data Science.
 
 I am currently working as a Research Assistant on developing a generalised pixel shuffle, with the goal of publishing this paper by September. I am also working on improving the softmax formulation used in attention mechanisms in collaboration with a researcher.
 
