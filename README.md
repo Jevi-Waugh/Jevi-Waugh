@@ -15,7 +15,7 @@ I was a Summer Research Scholar at the School of Electrical Engineering and Comp
 
 
 
-Find more at https://jevi-waugh.github.io/
+Find more on my [website](https://jeviwaugh.com/)
 <!--
 **Jevi-Waugh/Jevi-Waugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
